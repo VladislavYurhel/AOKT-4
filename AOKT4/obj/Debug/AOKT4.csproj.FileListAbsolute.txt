@@ -1,0 +1,6 @@
+c:\users\владислав\documents\visual studio 2015\Projects\AOKT4\AOKT4\bin\Debug\AOKT4.exe.config
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\AOKT4\AOKT4\bin\Debug\AOKT4.exe
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\AOKT4\AOKT4\bin\Debug\AOKT4.pdb
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\AOKT4\AOKT4\obj\Debug\AOKT4.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\AOKT4\AOKT4\obj\Debug\AOKT4.exe
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\AOKT4\AOKT4\obj\Debug\AOKT4.pdb
